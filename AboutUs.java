@@ -5,8 +5,6 @@ import javax.swing.border.BevelBorder;
 import javax.swing.border.EtchedBorder;
 
 
-
-
 public class AboutUs
 {
 	

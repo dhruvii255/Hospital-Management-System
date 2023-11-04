@@ -146,9 +146,8 @@ class HomePage {
         mainpanel.add(mainpanel_pic);
         
         
-        
-        
-        
+ 
+
         
         // LOGIN PANEL
         JPanel loginpanel = new JPanel();
@@ -201,7 +200,6 @@ class HomePage {
         
 
 
-
         // ADD
         headerpanel.add(panel);
         headerpanel.add(heading);
@@ -211,9 +209,6 @@ class HomePage {
         wrapper.add(headerpanelsh);
         wrapper.add(mainpanel);	
         
-       
-        
-       
         
         loginpanel.add(loginlabel);
         loginpanel.add(username);

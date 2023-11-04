@@ -656,9 +656,6 @@ class MenuPage
         menupageframe.add(mainbodypanel);
     }
 	
-	
-	
-	
     
     public static void main(String a[])
     {

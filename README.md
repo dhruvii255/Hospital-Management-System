@@ -18,4 +18,4 @@ This system has a home page from where the administrator can login. On logging i
 ## License
 This project is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
-###### P.S This project is simply a proof of concept done while i was still in school/college. This project is not to be taken seriously and is not production ready.
+###### P.S This project is simply a proof of concept done while I was still in school/college. This project is not to be taken seriously and is not production ready.

@@ -113,8 +113,6 @@ class EditDoc
             editframe.add(headerpanel);
             editframe.add(headerpanelsh);
             
-            
-
 
             formpanel = new JPanel();
             formpanel.setBounds(350,150,600,900);		
